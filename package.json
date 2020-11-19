@@ -1,0 +1,22 @@
+{
+  "name": "stocker-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagy989/stocker-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagy989/stocker-master/issues"
+  },
+  "homepage": "https://github.com/anagy989/stocker-master#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.7"
+  }
+}
