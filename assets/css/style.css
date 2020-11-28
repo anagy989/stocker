@@ -43,14 +43,25 @@ footer {
   width: 100%;
 }
 
+.info-block{
+margin-top: 3rem;
+
+   
+} 
+
+.contact{
+    border: 2px solid white;
+    padding: 10px;
+}
+
+
+
 .categories {
   height: 40em;
   overflow: auto;
 }
 
-.row {
-  margin-bottom: 50px;
-}
+
 
 .select-dropdown {
   margin-top: 3rem;
